@@ -1,2 +1,2 @@
-# infor2180-lab7
-PHP, SQL, JS, HTML, CSS
+# INFO2180 Lab 7
+Using PHP and SQL

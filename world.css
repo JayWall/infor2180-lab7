@@ -1,0 +1,13 @@
+h1 {
+    color: #ffffff;
+    background-color: #000000;
+    font-family: impact;
+}
+
+div > label{
+    font-family: impact;
+}
+
+body {
+    background-color: #fcf1ef;
+}
